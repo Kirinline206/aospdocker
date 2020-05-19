@@ -1,7 +1,7 @@
 docker-aosp
 ==================
 Thanks to Michael Stucki for create this project this is a fork the official is here https://github.com/stucki/docker-lineageos
-Create a [Docker] based environment to build [LineageOS].
+Create a [Docker] based environment to build aosp custom roms
 
 This Dockerfile will create a docker container which is based on Ubuntu 16.04.
 It will install the "repo" utility and any other build dependencies which are required to compile Custom roms
