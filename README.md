@@ -17,8 +17,8 @@ The main working directory is a shared folder on the host system, so the Docker 
 * If an image does not exist, ```docker build``` is executed first
 
 ```
-git clone https://github.com/stucki/docker-lineageos.git
-cd docker-lineageos
+git clone https://github.com/Kirinline206/aospdocker.git
+cd docker-aospcompilling
 ./run.sh
 ```
 
