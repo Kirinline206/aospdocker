@@ -1,14 +1,14 @@
 docker-aosp
 ==================
-
+Thanks to Michael Stucki for create this project this is a fork the official is here https://github.com/stucki/docker-lineageos
 Create a [Docker] based environment to build [LineageOS].
 
 This Dockerfile will create a docker container which is based on Ubuntu 16.04.
-It will install the "repo" utility and any other build dependencies which are required to compile LineageOS (formerly known as CyanogenMod).
+It will install the "repo" utility and any other build dependencies which are required to compile Custom roms
 
 The main working directory is a shared folder on the host system, so the Docker container can be removed at any time.
 
-**NOTE:** Remember that LineageOS is a huge project. It will consume a large amount of disk space (~80 GB) and it can easily take hours to build.
+**NOTE:** Remember that Aosp is a huge project. It will consume a large amount of disk space (~80 GB) and it can easily take hours to build.
 
 ### How to run/build
 
