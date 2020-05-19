@@ -1,4 +1,4 @@
-docker-lineageos
+docker-aosp
 ==================
 
 Create a [Docker] based environment to build [LineageOS].
